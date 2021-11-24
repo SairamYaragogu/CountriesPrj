@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CountriesPrj</string>
+    <string name="id">"Country ID: "</string>
+    <string name="fetch_countries_data">FETCH COUNTRIES DATA</string>
+</resources>
